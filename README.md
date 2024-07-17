@@ -9,8 +9,8 @@ The project includes exploratory data analysis (EDA), data pre-processing, visua
 
 ## Technologies Used
 
-- *Programming Language:* Python
-- *Libraries:*
+- **Programming Language:** Python
+- **Libraries:**
   - NLTK (VADER)
   - Hugging Face (Transformers - RoBERTa)
   - NumPy
@@ -20,3 +20,6 @@ The project includes exploratory data analysis (EDA), data pre-processing, visua
  
 ## Results
 The project includes detailed analysis and visualization of the sentiment analysis results. The results comparison notebook provides insights into the effectiveness of the VADER tool and the pre-trained RoBERTa model.
+
+## Dataset
+Download the dataset from https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?resource=download
